@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int Num, rev_Num = 0, remainder;
+    int Num, rev_Num = 0, remaider;
     printf("Enter the number to reverse: ");
     scanf("%d", &Num);    
     while (Num != 0){
